@@ -13,7 +13,6 @@ import java.io.Serializable;
 @Setter
 public class ProductOnSale implements Serializable {
 
-    @
     private Long productId;
 
     private Product product;
